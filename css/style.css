@@ -55,3 +55,33 @@ p{
     height:48px;
 }
 .card{width: 229px; height: 288px;}
+.web{
+    margin-top:100px;
+}
+.about{
+    width: auto;
+    height: 475px;
+    background-color: #E5F7EA;
+}
+.clients{
+    margin-top: 100px;
+}
+.profile{
+    width: 306px;
+    height: 244px;
+    background-color: white;
+}
+.whyChooseUs{
+    height: 138px;
+    background-color: #F4E2E2;
+    margin-bottom: 100px;
+}
+.contact{
+    height: auto;
+    background-color: white;
+}
+.facebook{
+    background-color: #2C373E;
+    width:52px;
+    height: 52px;
+}
